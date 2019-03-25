@@ -1,0 +1,4 @@
+(org-clubhouse
+  :fetcher github
+  :repo "urbint/org-clubhouse"
+  :files ("*")))
